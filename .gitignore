@@ -1,0 +1,6 @@
+input/*.xml
+input/*.json
+input/*.csv
+
+output/*.csv
+output/*.json
