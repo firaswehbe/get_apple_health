@@ -1,3 +1,6 @@
+*.pyc
+.DS_Store
+
 input/*.xml
 input/*.json
 input/*.csv
